@@ -1,0 +1,26 @@
+print("hello world")
+print("abdo abar")
+print(" Pasta")
+print( 25 * 4 )
+tu = 21
+all = 91.5
+a = "abdullah abar"
+print(type(tu))
+print(type(all))
+print(type(a))
+print(" my name is", a,"i'm",stu,"years old","i like a number",all)
+store = 0
+store +=55
+store +125
+store -=25
+store /= 25
+store
+s = "ahmed"
+print(s[3])
+name = "abdalluah"
+age = 21
+
+
+print( f"my name is {name}, I am {age} years old")
+1000==100
+200==200
